@@ -1,0 +1,9 @@
+# 自编应用
+*.exe
+*.py
+*.cpp
+*.c
+*.h
+
+app/
+private/
