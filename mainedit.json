@@ -3659,7 +3659,7 @@
 				"gainDecibel": 0.0,
 				"pan": 0.0,
 				"mute": false,
-				"solo": false,
+				"solo": true,
 				"display": true
 			},
 			"mainGroup": {
@@ -3704,8 +3704,44 @@
 					{
 						"musicalType": "singing",
 						"onset": 28224000000,
-						"duration": 705600000,
+						"duration": 470400000,
 						"lyrics": "\u74e6",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 57,
+						"detune": 0,
+						"instantMode": false,
+						"attributes": {
+							"tF0Left": 0.1000000014901161,
+							"dF0Left": -1.299999952316284
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 28694400000,
+						"duration": 235200000,
+						"lyrics": "-",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 58,
@@ -3744,7 +3780,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -3777,7 +3815,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -3803,14 +3843,16 @@
 					{
 						"musicalType": "singing",
 						"onset": 29635200000,
-						"duration": 705600000,
+						"duration": 176400000,
 						"lyrics": "\u8584",
 						"phonemes": "",
 						"accent": "",
-						"pitch": 65,
-						"detune": 0,
+						"pitch": 63,
+						"detune": 25,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -3835,15 +3877,52 @@
 					},
 					{
 						"musicalType": "singing",
-						"onset": 30340800000,
-						"duration": 352800000,
+						"onset": 29811600000,
+						"duration": 646800000,
+						"lyrics": "-",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 65,
+						"detune": 0,
+						"instantMode": false,
+						"attributes": {
+							"tF0Offset": 0.0
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 30458400000,
+						"duration": 235200000,
 						"lyrics": "\u971c",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -3869,8 +3948,45 @@
 					{
 						"musicalType": "singing",
 						"onset": 31046400000,
-						"duration": 352800000,
+						"duration": 176400000,
 						"lyrics": "\u7a97",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 62,
+						"detune": -25,
+						"instantMode": false,
+						"attributes": {
+							"tF0Offset": 0.0,
+							"tF0Left": 0.09000000357627869,
+							"dF0Left": -1.289999961853027
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 31222800000,
+						"duration": 176400000,
+						"lyrics": "-",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 63,
@@ -3909,7 +4025,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -3942,7 +4060,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -3975,7 +4095,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4008,7 +4130,9 @@
 						"pitch": 53,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4034,8 +4158,43 @@
 					{
 						"musicalType": "singing",
 						"onset": 33868800000,
-						"duration": 705600000,
+						"duration": 176400000,
 						"lyrics": "\u90fd",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 56,
+						"detune": 0,
+						"instantMode": false,
+						"attributes": {
+							"tF0Offset": 0.0
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 34045200000,
+						"duration": 529200000,
+						"lyrics": "-",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 58,
@@ -4067,14 +4226,53 @@
 					{
 						"musicalType": "singing",
 						"onset": 34574400000,
-						"duration": 352800000,
+						"duration": 88200000,
 						"lyrics": "\u7167",
 						"phonemes": "",
 						"accent": "",
-						"pitch": 70,
-						"detune": 0,
+						"pitch": 69,
+						"detune": -25,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 34662600000,
+						"duration": 264600000,
+						"lyrics": "-",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 70,
+						"detune": 25,
+						"instantMode": false,
+						"attributes": {
+							"tF0Left": 0.1000000014901161,
+							"dF0Left": 0.7200000286102295,
+							"dF0Right": -0.1500000059604645
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4107,7 +4305,9 @@
 						"pitch": 69,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4133,8 +4333,43 @@
 					{
 						"musicalType": "singing",
 						"onset": 35280000000,
-						"duration": 705600000,
+						"duration": 117600000,
 						"lyrics": "\u5fc3",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 63,
+						"detune": 0,
+						"instantMode": false,
+						"attributes": {
+							"tF0Offset": 0.0
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 35397600000,
+						"duration": 588000000,
+						"lyrics": "-",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 65,
@@ -4173,7 +4408,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4199,14 +4436,54 @@
 					{
 						"musicalType": "singing",
 						"onset": 36691200000,
-						"duration": 705600000,
+						"duration": 176400000,
 						"lyrics": "\u67d0",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 62,
+						"detune": 0,
+						"instantMode": false,
+						"attributes": {
+							"tF0Offset": 0.0,
+							"tF0Left": 0.1749999970197678,
+							"dF0Left": 6.0,
+							"dF0Right": 0.0
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 36867600000,
+						"duration": 529200000,
+						"lyrics": "-",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"dF0Left": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4239,7 +4516,16 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0,
+							"tF0Left": 0.07000000029802322,
+							"tF0Right": 0.1500000059604645,
+							"dF0Right": -1.5,
+							"tF0VbrStart": 0.01999999955296516,
+							"tF0VbrLeft": 0.1000000014901161,
+							"tF0VbrRight": 0.5,
+							"dF0Vbr": 0.2000000029802322
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4272,7 +4558,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4305,7 +4593,12 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0,
+							"dur": [
+								1.799999952316284
+							]
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4338,7 +4631,11 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0,
+							"tF0Left": 0.2349999994039536,
+							"dF0Left": 6.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4371,7 +4668,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4404,7 +4703,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4430,8 +4731,43 @@
 					{
 						"musicalType": "singing",
 						"onset": 40924800000,
-						"duration": 705600000,
+						"duration": 176400000,
 						"lyrics": "\u601d",
+						"phonemes": "",
+						"accent": "",
+						"pitch": 63,
+						"detune": 0,
+						"instantMode": false,
+						"attributes": {
+							"tF0Offset": 0.0
+						},
+						"systemAttributes": {},
+						"pitchTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						},
+						"timbreTakes": {
+							"activeTakeId": 0,
+							"takes": [
+								{
+									"id": 0,
+									"expr": 0.0,
+									"liked": false
+								}
+							]
+						}
+					},
+					{
+						"musicalType": "singing",
+						"onset": 41101200000,
+						"duration": 529200000,
+						"lyrics": "-",
 						"phonemes": "",
 						"accent": "",
 						"pitch": 65,
@@ -4470,7 +4806,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4503,7 +4841,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4536,7 +4876,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4569,7 +4911,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4602,7 +4946,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4635,7 +4981,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4668,7 +5016,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4701,7 +5051,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4734,7 +5086,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4767,7 +5121,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4800,7 +5156,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4833,7 +5191,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4866,7 +5226,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4899,7 +5261,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4932,7 +5296,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4965,7 +5331,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -4998,7 +5366,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5031,7 +5401,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5064,7 +5436,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5097,7 +5471,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5130,7 +5506,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5163,7 +5541,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5196,7 +5576,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5229,7 +5611,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5262,7 +5646,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5295,7 +5681,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5328,7 +5716,9 @@
 						"pitch": 53,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5361,7 +5751,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5394,7 +5786,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5427,7 +5821,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5460,7 +5856,9 @@
 						"pitch": 69,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5493,7 +5891,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5526,7 +5926,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5559,7 +5961,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5592,7 +5996,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5625,7 +6031,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5658,7 +6066,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5691,7 +6101,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5724,7 +6136,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5757,7 +6171,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5790,7 +6206,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5823,7 +6241,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5856,7 +6276,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5889,7 +6311,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5922,7 +6346,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5955,7 +6381,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -5988,7 +6416,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6021,7 +6451,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6054,7 +6486,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6087,7 +6521,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6120,7 +6556,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6153,7 +6591,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6186,7 +6626,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6219,7 +6661,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6252,7 +6696,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6285,7 +6731,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6318,7 +6766,9 @@
 						"pitch": 74,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6351,7 +6801,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6384,7 +6836,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6417,7 +6871,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6450,7 +6906,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6483,7 +6941,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6516,7 +6976,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6549,7 +7011,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6582,7 +7046,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6615,7 +7081,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6648,7 +7116,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6681,7 +7151,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6714,7 +7186,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6747,7 +7221,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6780,7 +7256,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6813,7 +7291,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6846,7 +7326,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6879,7 +7361,9 @@
 						"pitch": 53,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6912,7 +7396,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6945,7 +7431,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -6978,7 +7466,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7011,7 +7501,9 @@
 						"pitch": 69,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7044,7 +7536,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7077,7 +7571,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7110,7 +7606,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7143,7 +7641,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7176,7 +7676,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7209,7 +7711,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7242,7 +7746,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7275,7 +7781,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7308,7 +7816,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7341,7 +7851,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7374,7 +7886,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7407,7 +7921,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7440,7 +7956,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7473,7 +7991,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7506,7 +8026,9 @@
 						"pitch": 63,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7539,7 +8061,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7572,7 +8096,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7605,7 +8131,9 @@
 						"pitch": 60,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7638,7 +8166,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7671,7 +8201,9 @@
 						"pitch": 62,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7704,7 +8236,9 @@
 						"pitch": 58,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7737,7 +8271,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7770,7 +8306,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7803,7 +8341,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7836,7 +8376,9 @@
 						"pitch": 65,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7869,7 +8411,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7902,7 +8446,9 @@
 						"pitch": 74,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7935,7 +8481,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -7968,7 +8516,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -8001,7 +8551,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -8034,7 +8586,9 @@
 						"pitch": 72,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -8067,7 +8621,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -8100,7 +8656,9 @@
 						"pitch": 70,
 						"detune": 0,
 						"instantMode": false,
-						"attributes": {},
+						"attributes": {
+							"tF0Offset": 0.0
+						},
 						"systemAttributes": {},
 						"pitchTakes": {
 							"activeTakeId": 0,
@@ -12311,7 +12869,7 @@
 			"mixer": {
 				"gainDecibel": 0.0,
 				"pan": 0.0,
-				"mute": false,
+				"mute": true,
 				"solo": false,
 				"display": true
 			},
